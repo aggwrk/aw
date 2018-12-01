@@ -1,0 +1,38 @@
+	.header{
+	background:#232323;
+	height: 180px;				
+}
+	.menu{
+	background: #AFAFAF;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+	.badan{
+	height: 450px;
+}
+	.badan .menu-column{
+	background:#7D7D7D;
+	float: left;	
+	width: 25%;
+	height: 100%;
+}
+	.badan .content-column{
+	background:#D9D9D9;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+	.badan .extra-column{
+	background:#7D7D7D;
+	float:right;
+	width:25%;	
+	height: 100%;	
+}
+	.footer{
+	font-size: 25px;
+	padding: 10px;
+	background:#232323;
+	color: white;
+}
